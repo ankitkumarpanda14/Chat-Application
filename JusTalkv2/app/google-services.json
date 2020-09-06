@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714120711677",
+    "firebase_url": "https://justalkv2.firebaseio.com",
+    "project_id": "justalkv2",
+    "storage_bucket": "justalkv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714120711677:android:d505726557ac23338a9d94",
+        "android_client_info": {
+          "package_name": "com.example.justalkv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714120711677-tseh9rvamktq3hd3ajtqp1fdptqpjves.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justalkv2",
+            "certificate_hash": "ccb22e50db5d2c8b3ce16fe09810b12567d6cc1a"
+          }
+        },
+        {
+          "client_id": "714120711677-1hvotrk40d5peojjftedakh1i3rb8plv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjJctX4rZkK9mNyVYL4cOB8MgOzWudXgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714120711677-1hvotrk40d5peojjftedakh1i3rb8plv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
